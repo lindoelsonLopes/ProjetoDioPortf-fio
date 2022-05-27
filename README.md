@@ -1,5 +1,5 @@
 # 🚀 Modelo de Portfólio 📁
 
-![Desktop preview] (./telaPortfolio.png)
+![Desktop preview] (./img/telaPortfolio.png)
 
 ## 📃 Sobre
