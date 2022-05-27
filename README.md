@@ -1,5 +1,5 @@
 # 🚀 Modelo de Portfólio 📁
 
-![Desktop preview] (./img/telaPortfolio.png)
+<img src = "img/telaPortfolio.png>
 
 ## 📃 Sobre
