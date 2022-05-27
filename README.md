@@ -4,7 +4,7 @@
 
 ## 📃 Sobre
 
-Projeto desenvolvido por <a href="https://github.com/lindoelsonLopes"> Lindoelson Lopes </a> , referente ao Bootcampo TQI Fullstack Developer na DIO.me.
+Projeto desenvolvido por <a href="https://github.com/lindoelsonLopes"> Lindoelson Lopes </a> , referente ao Bootcamp TQI Fullstack Developer na DIO.me.
 
 Criação de um modelo de Portfólio usando HTML e CSS Transitions.
 
