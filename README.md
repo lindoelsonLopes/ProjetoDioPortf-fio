@@ -8,4 +8,4 @@ Projeto desenvolvido por <a href="https://github.com/lindoelsonLopes"> Lindoelso
 
 Criação de um modelo de Portfólio usando HTML e CSS Transitions.
 
-<a href="https://lindoelsonlopes.github.io/ProjetoDioPortf-fio/"> Cique aqui </a> para conferir a versão final do projeto no seu navegador.
+<a href="https://lindoelsonlopes.github.io/ProjetoDioPortfolio/"> Cique aqui </a> para conferir a versão final do projeto no seu navegador.
